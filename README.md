@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./icons/wryze.svg" width="40px" height="40px">
+<img src="./icons/wryze.svg" width="120px" height="120px">
 <h1>wryze</h1>
 </div>
 
