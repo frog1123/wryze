@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <img src="./icons/wryze.svg" width="40px" height="40px">
 <h1>wryze</h1>
 </div>
